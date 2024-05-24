@@ -1,3 +1,5 @@
 __pycache__
 .DS_Store
 Data
+.idea
+Game-Bot.iml
